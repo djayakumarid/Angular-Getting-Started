@@ -1,1 +1,29 @@
+https://prod-pf.pluralsight.com/sp/startSSO.ping?PartnerIdpId=mtb.com&InErrorResource=https://mandtbank.sharepoint.com/sites/Insider_Technology/SitePages/Pluralsight.aspx
+
 Type Script: https://www.typescriptlang.org/play
+
+Setup:
+	Setup Git: https://github.com/djayakumarid/Angular-Getting-Started
+		$ cd /C/Users/djaya/JAYAKUMAR/PROJECTS/Angular-Getting-Started
+		$ git init
+		$ git remote
+		$ git remote add origin https://github.com/djayakumarid/Angular-Getting-Started.git
+		
+
+	Insall VS Code: https://code.visualstudio.com/
+
+	Install npm: Node Package Manager
+		npm is opensource repository it helps with 
+		Install libray/packages and applications
+		Execute script
+		https://nodejs.org/en/download
+			Command: npm -version --> 10.2.3 as of 1/1/2024
+			
+	Check node:
+		node is a framework that can run JavaScript code on your machine while npm is a package manager.
+		Command: node -v --> v20.10.0 as of 1/1/2024
+		
+	Download Sample Project:
+		https://github.com/Deborahk/Angular-GettingStarted
+		Local Location: C:\Users\djaya\JAYAKUMAR\PROJECTS\Angular-Getting-Started\02_Sample\Angular-GettingStarted
+		
